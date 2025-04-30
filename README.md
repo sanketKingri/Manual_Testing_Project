@@ -1,7 +1,7 @@
 Author - Pramod Dutta
 
 # Software Testing Projects
-Here is the 5 LIVE projects that I have done with the STLC templates and documents
+Here is the 4 LIVE projects that I have done with the STLC templates and documents
 
 
 ## Software Testing Projects List
