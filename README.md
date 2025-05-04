@@ -1,4 +1,4 @@
-Author - Pramod Dutta
+Author - Sanket Kingri
 
 # Software Testing Projects
 Here is the 4 LIVE projects that I have done with the STLC templates and documents
