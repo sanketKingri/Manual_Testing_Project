@@ -1,39 +1,38 @@
 Author - Sanket Kingri
 
-# Software Testing Projects
-Here is the 4 LIVE projects that I have done with the STLC templates and documents
+# Software Testing Projects by Sanket Kingri
 
+Welcome to my software testing portfolio. Below are four live projects I have worked on, along with key STLC documents such as Test Plan, Test Cases, Bug Reports, RTM, and more.
 
-## Software Testing Projects List
+---
 
-| Project Name | Description | Tools Used |
-|--------------|-------------|------------|
-| Project 1    | VWO (Visual Website Optimizer) at app.vwo.com is a comprehensive A/B testing and conversion optimization platform. The app includes a login page, registration page, and a user-friendly dashboard.  | JIRA, Selenium, TestRail |
-| Project 2    | Tested a mobile application for compatibility across different devices. | Appium, TestLink |
-| Project 3    | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP |
-| Project 4    | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP |
-| Project 5    | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP |
+## 🧾 Software Testing Projects
 
-## Getting Started
+| Project Name           | Description                                                                                   | Tools Used                  |
+|------------------------|-----------------------------------------------------------------------------------------------|-----------------------------|
+| Income Tax Portal (I-Tax) | Tested workflows for tax filing, verification, and refund processing.                        | Jira, Excel, Postman        |
+| CRM Application         | Functional testing of lead management, customer onboarding, and ticket resolution processes. | TestRail, Jira, Excel       |
+| POI (Proof of Identity) | Validated KYC processes with document verification, error handling, and OCR validation.       | TestLink, Excel             |
+| TDS System              | Ensured correct deduction, reporting, and validation of TDS processes and Form 26AS.          | Jira, Excel, SQL            |
 
-To view the details of each project, simply click on the project name in the table above. The project page will contain a brief description of the project as well as a list of tools used to complete the project.
+---
 
-## Contributing
+## 📂 Project Documents
 
-If you have any feedback or suggestions for improvements, please feel free to open an issue or pull request.
+Each project includes the following standard STLC templates:
 
-## License
+- ✅ Test Plan  
+- ✅ Test Cases  
+- 🐞 Bug Reports  
+- 📌 RTM (Requirement Traceability Matrix)  
+- 📊 Test Reports  
+- 📈 Test Metrics  
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-You can copy and paste this code into a Markdown file and modify the text as needed.
+---
 
+### 🔍 Project-Wise Documents
 
-
-
-
-
-
-## Templates
+#### 📁 Project 1 – Income Tax Portal (I-Tax)
 - Test Plan
 - Test Cases
 - Bug Report
@@ -41,8 +40,7 @@ You can copy and paste this code into a Markdown file and modify the text as nee
 - Test Reports
 - Test Metrics
 
-
-### Project 1
+#### 📁 Project 2 – CRM Application
 - Test Plan
 - Test Cases
 - Bug Report
@@ -50,7 +48,7 @@ You can copy and paste this code into a Markdown file and modify the text as nee
 - Test Reports
 - Test Metrics
 
-### Project 2
+#### 📁 Project 3 – POI (Proof of Identity)
 - Test Plan
 - Test Cases
 - Bug Report
@@ -58,7 +56,7 @@ You can copy and paste this code into a Markdown file and modify the text as nee
 - Test Reports
 - Test Metrics
 
-### Project 3
+#### 📁 Project 4 – TDS System
 - Test Plan
 - Test Cases
 - Bug Report
@@ -66,10 +64,34 @@ You can copy and paste this code into a Markdown file and modify the text as nee
 - Test Reports
 - Test Metrics
 
-Test Plan
-I have created a Test Plan for the Project
+---
 
-Project name:
-What.
+## 💻 Getting Started
 
-dad
+Each folder in this repository contains the relevant documentation for that project.  
+You can explore individual project folders to view and download:
+
+- Test scenarios
+- Test execution reports
+- Bug tracking evidence (screenshots/logs)
+
+---
+
+## 🤝 Contributing
+
+If you have suggestions or want to contribute to any of the test documentation or formats, feel free to open an issue or a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 👤 Author
+
+**Sanket Kingri**  
+Manual & Automation Tester | Domain Experience: Income Tax, CRM, POI, TDS  
+[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+
