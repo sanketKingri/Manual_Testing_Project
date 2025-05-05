@@ -12,7 +12,7 @@ Welcome to my software testing portfolio. Below are four live projects I have wo
 |------------------------|-----------------------------------------------------------------------------------------------|-----------------------------|
 | Income Tax Portal (I-Tax) | Tested workflows for tax filing, verification, and refund processing.                        | Jira, Excel, Postman        |
 | CRM Application         | Functional testing of lead management, customer onboarding, and ticket resolution processes. |  Jira, Excel       |
-| POI (Proof of Identity) | Validated KYC processes with document verification, error handling, and OCR validation.       |  Excel,Jira            |
+| POI (Proof of Invesment) | Validated KYC processes with document verification, error handling, and OCR validation.       |  Excel,Jira            |
 | TDS System              | Ensured correct deduction, reporting, and validation of TDS processes and Form 26AS.          | Jira, Excel,          |
 
 ---
